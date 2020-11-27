@@ -7,5 +7,5 @@ channels:
   - defaults
 dependencies:
   - gaas
-  - prokka=11.14.6
+  - prokka=1.14.6
   - megahit=1.2.9
