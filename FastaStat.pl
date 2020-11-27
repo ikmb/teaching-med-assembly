@@ -1,4 +1,5 @@
-#!/usr/bin/env perl -w 
+#!/usr/bin/env perl
+
 # USAGE: FastaStat.pl {FASTA file} Output: # Sequences
 #	  # Average length of a sequence Sum of lengths of all sequences Empty sequences
 # 	# Longest/shortest length of a sequence
