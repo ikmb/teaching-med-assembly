@@ -19,8 +19,6 @@ From:continuumio/anaconda
     /opt/conda/bin/conda env create -f /environment.yml
     /opt/conda/bin/conda clean -a
 
-    apt-get -y install procps
-
     mkdir -p /opt/bin
     mv /FastaStat.pl /opt/bin
     chmod +x /opt/bin/FastaStat.pl
